@@ -1,6 +1,6 @@
 # Modeling the Contractual Service Margin (CSM) under IFRS 17
 
-This project simulates the evolution of the Contractual Service Margin (CSM) under IFRS 17 using synthetic insurance contract data. The goal is to demonstrate how changes in key financial assumptions—such as discount rates and profit margin ratios—affect the amortization of the CSM over time.
+This project simulates the evolution of the Contractual Service Margin (CSM) under IFRS 17 using synthetic insurance contract data. The goal is to demonstrate how changes in key financial assumption, such as discount rates and profit margin ratios, affect the amortization of the CSM over time.
 
 ---
 
